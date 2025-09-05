@@ -18,6 +18,9 @@ You can find my detailed design process here: https://jyblue1001.github.io/
 1. Connect OUT_FREQ to a multimeter, as the initial control voltage is 0V, it should be naturally outputting a 2.18GHz signal.
 2. Connect REF_FREQ to a 20MHz signal. Either square wave of sinusoid are both are both ok as long as Vpp is 1.8V with respect to ground.
 3. Inspect OUT_FREQ, within the settling time of 3us, the PLL output will converge to a 2.4GHZ signal.
+
+NOTE: I doubt it will work exactly as intended. The output frequency may not reach 2.4 GHz. If that’s the case, you might need to increase the input frequency.
+
 ## External hardware
 
 1. Signal Generator (For the input)
