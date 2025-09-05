@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1757092380
+timestamp 1757102263
 << metal1 >>
 rect 26090 19500 26480 19510
 rect 26090 19440 26100 19500
@@ -1116,7 +1116,7 @@ rect 22634 0 22814 200
 rect 26498 0 26678 200
 rect 30362 0 30542 200
 use bgr  bgr_0
-timestamp 1757088751
+timestamp 1757102137
 transform 1 0 0 0 1 0
 box 8227 9070 25880 19200
 use cp_opamp  cp_opamp_0
@@ -1132,7 +1132,7 @@ timestamp 1757089566
 transform 1 0 0 0 1 0
 box 7720 19209 26090 32110
 use pfd_cp  pfd_cp_0
-timestamp 1757089359
+timestamp 1757102086
 transform 1 0 0 0 1 0
 box 13010 5790 24190 8400
 use vco  vco_0
