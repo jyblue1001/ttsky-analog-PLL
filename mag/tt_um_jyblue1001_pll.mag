@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1757205259
+timestamp 1757393832
 << locali >>
 rect 15100 14690 15180 14710
 rect 15100 14650 15120 14690
@@ -1166,29 +1166,29 @@ rect 22634 0 22814 200
 rect 26498 0 26678 200
 rect 30362 0 30542 200
 use bgr  bgr_0
-timestamp 1757205195
-transform 1 0 0 0 1 400
-box 8567 8670 25880 19200
+timestamp 1757393620
+transform 1 0 -30000 0 1 400
+box 38567 8670 55880 19200
 use cp_opamp  cp_opamp_0
-timestamp 1757140845
-transform 1 0 0 0 1 400
-box 18790 9060 25950 13791
+timestamp 1757393692
+transform 1 0 -30000 0 1 400
+box 48790 9060 55950 13791
 use divide_by_120  divide_by_120_0
-timestamp 1757114885
-transform 1 0 0 0 1 0
-box 12130 2890 22810 3750
+timestamp 1757393171
+transform 1 0 -30000 0 1 0
+box 42130 2890 52810 3750
 use loop_filter  loop_filter_0
-timestamp 1757089566
-transform 1 0 0 0 1 400
-box 7720 19209 26090 32110
+timestamp 1757393363
+transform 1 0 -40000 0 1 400
+box 47720 19209 66090 32110
 use pfd_cp  pfd_cp_0
-timestamp 1757103027
-transform 1 0 0 0 1 0
-box 13010 5790 24190 8400
+timestamp 1757393487
+transform 1 0 -30000 0 1 0
+box 43010 5790 54190 8400
 use vco  vco_0
-timestamp 1757090368
-transform 1 0 -10000 0 1 0
-box 32810 1490 35410 5650
+timestamp 1757392821
+transform 1 0 -20000 0 1 0
+box 42810 1490 45410 5650
 << labels >>
 flabel metal4 s 28766 44952 28826 45152 0 FreeSans 480 90 0 0 clk
 port 0 nsew signal input
